@@ -1,0 +1,10 @@
+.gpt__brand {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.gpt__brand div {
+    flex: 1;
+}
